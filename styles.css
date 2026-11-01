@@ -114,6 +114,9 @@ address {
   font-size: 1.125rem;
   font-family: system-ui;
   line-height: 1.6;
+  background-color: #f3e3cf;
+  padding: 16px 24px;
+  border-radius: 8px;
 }
 a:hover {
   color: #ead2d2;
